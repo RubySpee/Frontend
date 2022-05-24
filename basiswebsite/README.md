@@ -39,8 +39,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="![Eindresultaat](https://user-images.githubusercontent.com/94399952/170058048-ba2cb3e2-d9a1-4c9e-a2dd-af677b37422c.png)
-" width="375px" alt="uitomst opdracht 1">
+  ![Eindresultaat](https://user-images.githubusercontent.com/94399952/170058145-556ae93b-b4de-4dde-a5d9-3016c1652d40.png)
 
 
   ### Dit ging goed/Heb ik geleerd: 
