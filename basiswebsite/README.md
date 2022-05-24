@@ -12,14 +12,6 @@ Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
 
-
-## Bronnenlijst
-  1. -bron 1-
-  2. -bron 2-
-  3. -...-
-
-
-
 ## Opdracht 1 plan
 
 <details open>
@@ -33,10 +25,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Nieuwe dingen leren
+  - Een animatie maken. Nog nooit gedaan
  
 </details>
 
@@ -49,7 +39,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="uitomst opdracht 1">
+  <img src="![Eindresultaat](https://user-images.githubusercontent.com/94399952/170058048-ba2cb3e2-d9a1-4c9e-a2dd-af677b37422c.png)
+" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
