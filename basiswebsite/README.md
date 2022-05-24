@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** Ruby Spee
 
 **De opdrachten:** [opdracht 1](opdracht1/index.html) en [opdracht 2](opdracht2/index.html)
 
@@ -27,7 +27,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je storyboard:
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="storyboard voor opdracht 1">
+  <img src="![image](https://user-images.githubusercontent.com/94399952/170056728-0d07639c-efb2-4b88-8cb7-cec2205bca6b.png)" width="375px" alt="storyboard voor opdracht 1">
+  <img src="![image](https://user-images.githubusercontent.com/94399952/170056784-1214b5fc-f74e-4f2f-a7c6-dfc905f8cd42.png)" width="375px" alt="storyboard voor opdracht 1">
 
 
   ### Je ambitie: 
