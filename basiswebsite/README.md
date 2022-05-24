@@ -43,16 +43,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatje(s)
-
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="top">
+  Ik heb best veel geleerd tijdens deze opdracht. Toen ik voor het eerst de opdracht hoorde, dacht ik meteen 'Okeyy dit gaat mij niet lukken'. Dat is uiteindelijk toch goed gekomen. Eigenlijk was alles voor mij nieuw. Ik had nog nooit een animatie gemaakt, volgens mij alleen maar 1 klein een klein dingetje laten bewegen maar dat was het dan wel. En ik had nog nooit met ::before en ::after gewerkt, dus dat was ook leuk om te leren. In het begin gingen beide wel heel stroef maar uiteindelijk kwam ik wel in die flow en nadat ik beetje had gegoogled, kwam ik er gelukkig wel uit. Ook heb ik geleerd dat je zonder classes ook iets neer kan zetten (met die ::before en ::after). Normaal gebruikte ik heel veel classes, maar nu ken ik ook een andere manier. 
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatje(s)
-
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
-</details>
+  In het begin vond ik alles lastig. Ik moest echt weer even in komen in het coderen, had het al tijdje niet gedaan. Het animatie gedeelte werkte niet mee en snapte die ::before en ::after niet, maar opeens na de laatste les (18 mei) kwamen er opeens allemaal ideeën in me op en dta lukte me ook om uit te werken, dus dat ging opeens heel goed. Ik had misschien wel wat meer animaties erin willen stoppen. Ik vind de animaties die ik heb gebruikt best wel simpel (al ben ik wel heel blij dat het me uberhaupt is gelukkig). Ook was ik een klein beetje vergeten dat het ook responsive moest zijn, dus dat had ik ook nog wel willen proberen. Maar ik was al blij met wat er stond en dat alles werkte en er goed uitzag, dus wilde niet weer alles omgooien om het responsive te maken, dus dat was ook een reden. 
 
 
 
