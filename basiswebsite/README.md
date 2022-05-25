@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** Ruby Spee
 
 **De opdrachten:** [opdracht 1](opdracht1/index.html) en [opdracht 2](opdracht2/index.html)
 
@@ -11,15 +11,6 @@ Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal
 
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
-
-
-## Bronnenlijst
-  1. -bron 1-
-  2. -bron 2-
-  3. -...-
-
-
-
 ## Opdracht 1 plan
 
 <details open>
@@ -27,15 +18,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je storyboard:
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="storyboard voor opdracht 1">
+  ![image](https://user-images.githubusercontent.com/94399952/170216413-7abe855c-eb01-48af-8a71-fcfec56e1490.png)
+  ![image](https://user-images.githubusercontent.com/94399952/170216439-f5b39f8e-1d27-4d1a-b233-e7d0c2a48e6d.png)
 
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Meer leren over coderen
+  - Een animatie maken
  
 </details>
 
@@ -48,19 +38,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="uitomst opdracht 1">
+  ![Eindresultaat](https://user-images.githubusercontent.com/94399952/170216597-7b356df5-a302-4b13-ae35-ffa816e6138b.png)
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatje(s)
-
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="top">
+  In het begin ging het nou niet echt heel goed, wist niet echt hoe en wat ik moest doen. Maar na de laatste les (18e) kreeg ik opeens ideeën en het coderen ging opeens goed en had er echt weer zin in. Ik heb eigenlijk van alles wat we moesten doen geleerd. Ik had namelijk nog nooit een animatie gemaakt (geen grote animatie. Wel is een keer iets kleins gemaakt), dus dat was helemaal nieuw voor me en vond ik ook leuk om te leren. Het werken met ::before en ::after was helemaal nieuw voor mij. In begin wist ik totaal niet hoe ik die twee dingen moest gebruiken, maar opeens kreeg ik het door en gingen alles eigenlijk best goed. Ook heb ik geleerd hoe je iets kan maken met html/css ZONDER classes te gebruiken. Normaal gebruikte ik overal classes voor, maar nu ik heb geleerd wat ::before en ::after is, ga ik in de toekomst wel minder classes gebruiken. 
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatje(s)
-
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
+  In het begin van de opdracht lukte bijna niks, maar gelukkig richting het einde ging alles opeens goed en is er niet echt iets wat niet gelukt is. Heb wel een paar dingen die ik had willen doen als ik langer de tijd had, maar heb wel gewoon mijn idee uitgewerkt en het werkt, daar ben ik heel blij mee. Ook ben ik op zich wel blij met het eindresultaat en dat alles werkt (na heel veel frustratie), maar ik had misschien wel wat 'moeilijkere' animaties willen maken. Wat me ook niet is gelukt is, is de animatie responsive maken. Op een gegeven moment werkte alles en zag alles er goed uit en wilde dat eigenlijk niet 'verpesten' met het responsive maken. Het was een deel van de opdracht, maar was eigenlijk al heel blij dat ik de animatie had gemaakt en dat het werkte.
+  
 </details>
 
 
