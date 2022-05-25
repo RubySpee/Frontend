@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** Ruby Spee
+**Auteur:** -jouw naam-
 
 **De opdrachten:** [opdracht 1](opdracht1/index.html) en [opdracht 2](opdracht2/index.html)
 
@@ -12,6 +12,14 @@ Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
 
+
+## Bronnenlijst
+  1. -bron 1-
+  2. -bron 2-
+  3. -...-
+
+
+
 ## Opdracht 1 plan
 
 <details open>
@@ -19,14 +27,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je storyboard:
-  ![image](https://user-images.githubusercontent.com/94399952/170057064-e5a47b6a-1748-4c56-b213-bc6b4c8dc63f.png)
-  ![image](https://user-images.githubusercontent.com/94399952/170057107-48b4c76e-cfc7-4744-95d9-98b691cc1487.png)
+  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="storyboard voor opdracht 1">
 
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - Nieuwe dingen leren
-  - Een animatie maken. Nog nooit gedaan
+  - punt 1
+  - punt 2
+  - nog een punt
+  - ...
  
 </details>
 
@@ -39,15 +48,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  ![Eindresultaat](https://user-images.githubusercontent.com/94399952/170058145-556ae93b-b4de-4dde-a5d9-3016c1652d40.png)
+  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Ik heb best veel geleerd tijdens deze opdracht. Toen ik voor het eerst de opdracht hoorde, dacht ik meteen 'Okeyy dit gaat mij niet lukken'. Dat is uiteindelijk toch goed gekomen. Eigenlijk was alles voor mij nieuw. Ik had nog nooit een animatie gemaakt, volgens mij alleen maar 1 klein een klein dingetje laten bewegen maar dat was het dan wel. En ik had nog nooit met ::before en ::after gewerkt, dus dat was ook leuk om te leren. In het begin gingen beide wel heel stroef maar uiteindelijk kwam ik wel in die flow en nadat ik beetje had gegoogled, kwam ik er gelukkig wel uit. Ook heb ik geleerd dat je zonder classes ook iets neer kan zetten (met die ::before en ::after). Normaal gebruikte ik heel veel classes, maar nu ken ik ook een andere manier. 
+  Korte omschrijving met plaatje(s)
+
+  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  In het begin vond ik alles lastig. Ik moest echt weer even in komen in het coderen, had het al tijdje niet gedaan. Het animatie gedeelte werkte niet mee en snapte die ::before en ::after niet, maar opeens na de laatste les (18 mei) kwamen er opeens allemaal ideeën in me op en dta lukte me ook om uit te werken, dus dat ging opeens heel goed. Ik had misschien wel wat meer animaties erin willen stoppen. Ik vind de animaties die ik heb gebruikt best wel simpel (al ben ik wel heel blij dat het me uberhaupt is gelukkig). Ook was ik een klein beetje vergeten dat het ook responsive moest zijn, dus dat had ik ook nog wel willen proberen. Maar ik was al blij met wat er stond en dat alles werkte en er goed uitzag, dus wilde niet weer alles omgooien om het responsive te maken, dus dat was ook een reden. 
+  Korte omschrijving met plaatje(s)
+
+  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
+</details>
 
 
 
